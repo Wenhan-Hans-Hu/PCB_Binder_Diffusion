@@ -1,0 +1,6 @@
+# Ignore AlphaFold model weights
+lib/alphafold/model_weights/
+*.npz
+*.tar
+*.npy
+*.pt
